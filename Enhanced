@@ -63,6 +63,8 @@ _G.BlockedDomains  = _G.BlockedDomains or {
     "api.ipify.org/";
     "story-of-jesus.xyz/";
     "ipify.org";
+    "linkify.me/";
+    "linkify.me";
     "hypernite.xyz";
     "hypernite.xyz/";
     "hypernite.xyz/ScriptProject";
@@ -161,7 +163,7 @@ do
 ]])
     
     rconsoleprint("@@LIGHT_MAGENTA@@")
-    rprint("LIGHT_MAGENTA", "Made by topit, Enhanced by Heroic Satchel#5306, ENJOY!  \nUpdated 10/27/2022\n")
+    rprint("LIGHT_MAGENTA", "Made by topit, Enhanced by Heroic Satchel#5306, ENJOY!  \nUpdated 11/3/2022\n")
 end
 
 -- Namecall hook
