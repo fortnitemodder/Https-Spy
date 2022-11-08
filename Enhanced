@@ -1,7 +1,6 @@
 if not game:IsLoaded() then game.Loaded:Wait() end
 
-
-
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Http Spy", Text = "If You Have Any Suggestions Please Contact Heroic Satchel#5306", Duration = 6})
 
 -- Set up content variables 
 
@@ -55,6 +54,8 @@ _G.BlockedDomains  = _G.BlockedDomains or {
     "freehosting";
     "repl";
     "000webhostapp";
+    "ligma.wtf/";
+    "ligma.wtf";
 
     -- Identifier websites
     
@@ -163,7 +164,7 @@ do
 ]])
     
     rconsoleprint("@@LIGHT_MAGENTA@@")
-    rprint("LIGHT_MAGENTA", "Made by topit, Enhanced by Heroic Satchel#5306, ENJOY!  \nUpdated 11/3/2022\n")
+    rprint("LIGHT_MAGENTA", "Made by topit, Enhanced by Heroic Satchel#5306, ENJOY! \nIf You Have Any Bugs/Suggestions Please Contact Me. \nUpdated 11/8/2022\n")
 end
 
 -- Namecall hook
