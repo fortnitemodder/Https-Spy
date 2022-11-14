@@ -76,6 +76,15 @@ _G.BlockedDomains  = _G.BlockedDomains or {
     "libsodium-wrappers";
     "iplocation.com";
     "ip-tracker.org/";
+    "httpbin.org/get"; --thanks to CunningReaper#3072 for the suggestion
+    "httpbin.org/ip";
+    "httpbin.org/user-agent";
+    "httpbin.org/headers";
+    "httpbin.org/uuid";
+    "httpbin.org/anything";
+    "httpbin.org/cookies";
+    "httpbin.org/cookies/delete";
+    "httpbin.org/cookies/set";
     "infosniper.net";
     "shhh.lol/";
     "partpicker.shop/";
@@ -164,7 +173,7 @@ do
 ]])
     
     rconsoleprint("@@LIGHT_MAGENTA@@")
-    rprint("LIGHT_MAGENTA", "Made by topit#4057, Enhanced by Heroic Satchel#5306, ENJOY! \nIf You Have Any Bugs/Suggestions Please Contact Me. \nUpdated 11/8/2022\n")
+    rprint("LIGHT_MAGENTA", "Made by topit#4057, Enhanced by Heroic Satchel#5306, ENJOY! \nIf You Have Any Bugs/Suggestions Please Contact Me. \nUpdated 11/14/2022\n")
 end
 
 -- Namecall hook
