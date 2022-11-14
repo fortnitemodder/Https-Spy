@@ -76,15 +76,8 @@ _G.BlockedDomains  = _G.BlockedDomains or {
     "libsodium-wrappers";
     "iplocation.com";
     "ip-tracker.org/";
-    "httpbin.org/get"; --thanks to CunningReaper#3072 for the suggestion
-    "httpbin.org/ip";
-    "httpbin.org/user-agent";
-    "httpbin.org/headers";
-    "httpbin.org/uuid";
-    "httpbin.org/anything";
-    "httpbin.org/cookies";
-    "httpbin.org/cookies/delete";
-    "httpbin.org/cookies/set";
+    "httpbin.org/";--thanks to CunningReaper#3072 for the suggestion
+    "httpbin.org";
     "infosniper.net";
     "shhh.lol/";
     "partpicker.shop/";
