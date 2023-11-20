@@ -166,7 +166,7 @@ do
 ]])
     
     rconsoleprint("@@LIGHT_MAGENTA@@")
-    rprint("LIGHT_MAGENTA", "Made by topit#4057, Enhanced by Heroic Satchel#5306, ENJOY! \nIf You Have Any Bugs/Suggestions Please Contact Me. \nUpdated 11/14/2022\n")
+    rprint("LIGHT_MAGENTA", "Made by topit#4057, Enhanced by ixeeno, ENJOY! \nIf You Have Any Bugs/Suggestions Please Contact Me. Due tp the issue with byfron and personal issues this project is discontinued. The code has always been open source and you can do whatever with it. \nUpdated 11/14/2022\n")
 end
 
 -- Namecall hook
